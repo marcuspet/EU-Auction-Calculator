@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EU Auction Calculator", "EU Auction Calculator.csproj", "{552FB4FD-7101-409A-8DF9-E32203D8FE31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{552FB4FD-7101-409A-8DF9-E32203D8FE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552FB4FD-7101-409A-8DF9-E32203D8FE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552FB4FD-7101-409A-8DF9-E32203D8FE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552FB4FD-7101-409A-8DF9-E32203D8FE31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6C0A2D8-ED8B-4AFA-B19C-B4361D911FCA}
+	EndGlobalSection
+EndGlobal
